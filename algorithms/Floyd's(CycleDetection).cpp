@@ -63,6 +63,8 @@ return false;
 
 //Solving 202.Happy Number using Floyd's Algorithm
 
+//getNext() is just a helper function that we create ourselves. It is not a built-in C++ function. 
+
 class Solution {
 public:
     // Returns the next number by summing squares of digits.
